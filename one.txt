@@ -1,0 +1,3 @@
+big data[D[D[D[D[D[D[B[C[C[C[C[C[C[C analysis
+Hadoop Architecture
+Kafka - zookeeper
